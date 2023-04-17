@@ -25,6 +25,8 @@ This project requires a C++14 compiler, `cmake`, `libevdev`, `libudev`, and `lib
 
 **Solus:** `sudo eopkg install libevdev-devel libconfig-devel libgudev-devel`
 
+**Void Linux:** `sudo xbps-install cmake pkgconf eudev-libudev-devel libconfig++-devel libevdev-devel`
+
 **openSUSE:** `sudo zypper install cmake libevdev-devel systemd-devel libconfig-devel gcc-c++ libconfig++-devel libudev-devel`
 
 ## Building
